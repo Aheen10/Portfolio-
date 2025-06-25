@@ -138,7 +138,8 @@ a {
   background: #222;
   color: white;
   text-align: center;
-  padding: 20px 10px;
+  padding: 30px 15px;
+  font-size: 20px;
 }
 
 .footer .social-links a {
